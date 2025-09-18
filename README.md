@@ -15,6 +15,7 @@
 ## Tools list:
 
 | Tool | Tool Name |
+| ----- | ----- |
 | Soldering Iron | Pine64 Pinecil |
 | Solder Wire | Kester "44" 63/37 o.020" Solder Wire |
 | Solder Flux | Kester 951 Soldering Flux |
