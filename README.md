@@ -1,5 +1,7 @@
 # WheeeBoardV1
 
+This README is a work in progress.
+
 ## Parts list: 
 | Part | Part Name | Quanity |
 |-----| ------ | ----- |
